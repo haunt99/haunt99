@@ -40,7 +40,7 @@
   <a href="mailto:haunt.hcm2015@gmail.com">
     <img src="./assets/images/google.svg" alt="Google" height="30" width="30">
   </a>
-  <a href="https://gitee.com/haunt99">
+  <a href="https://gitee.com/techhack">
     <img src="./assets/images/gitee.svg" alt="Gitee" height="30" width="30">
   </a>
 	<a href="https://dev.to/fullstackhacker">
