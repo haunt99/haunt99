@@ -173,6 +173,23 @@
         </a>
       </td>
     </tr>
+     <tr valign="top">
+      <td width="20%" align="center">
+        <a href="https://github.com/turtle89">
+            <span>AAA+</span><br><br><br>
+            <img height="64px" src="assets/images/pythonturtle.jpg">
+        </a>
+      </td>
+      <td width="20%" align="center">
+        <a href="https://github.com/vba99">
+            <span>VBA</span><br><br><br>
+            <img height="64px" src="assets/images/vbaproject.jpg">
+        </a>
+      </td>
+      <td width="20%" align="center"></td>
+      <td width="20%" align="center"></td>
+      <td width="20%" align="center"></td>
+    </tr>
   </tbody>
 </table>
 
