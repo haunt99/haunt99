@@ -44,10 +44,13 @@
     <img src="./assets/images/gitee.svg" alt="Gitee" height="30" width="30">
   </a>
 	<a href="https://dev.to/fullstackhacker">
-    <img src="./assets/images/devto.png" alt="Gitee" height="30" width="30">
+    <img src="./assets/images/devto.png" alt="DevTo" height="30" width="30">
+  </a>
+  <a href="https://community.ops.io/techhack">
+    <img src="./assets/images/ops.png" alt="ops" height="30" width="30">
   </a>
   <a href="https://www.tiktok.com/@fullstackhacker">
-    <img src="./assets/images/tiktok.svg" alt="Gitee" height="30" width="30">
+    <img src="./assets/images/tiktok.svg" alt="tiktok" height="30" width="30">
   </a>
   <a href="https://github.com/haunt99">
     <img src="./assets/images/github.svg" alt="Github" height="30" width="30">
