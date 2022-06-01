@@ -40,6 +40,9 @@
   <a href="mailto:haunt.hcm2015@gmail.com">
     <img src="./assets/images/google.svg" alt="Google" height="30" width="30">
   </a>
+  <a href="https://www.patreon.com/topweb">
+    <img src="./assets/images/patreon.png" alt="Patreon" height="30" width="30">
+  </a>
   <a href="https://gitee.com/techhack">
     <img src="./assets/images/gitee.svg" alt="Gitee" height="30" width="30">
   </a>
