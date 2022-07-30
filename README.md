@@ -79,6 +79,56 @@
   </a>
 </p>
 
+
+## <p>Tech stack intends to supplement 🌹</p>
++ XenServer
++ Kafka
++ Fluentd
++ OpenStack
++ HAProxy
++ Gunicorn
++ RabbitMQ
++ Celery
++ Memcache
++ Fabric
++ Puppet
++ Piston
++ Akamai
++ Android Wear SDK
++ Babel
++ Bootstrap
++ Bugsnag
++ Datadog
++ Digicert
++ Zencoder
++ UserTesting
++ Twilio
++ Sentry
++ Sakurity
++ Phusion Passenger
++ PagerDuty
++ New Relic
++ Librato
++ HackerOne
++ Membase
++ Rackspace
++ Protocol buffers
++ Chubby
++ Borg
++ gRPC
++ Varnish
++ Chef
++ Nagios
++ Cacti
++ LevelDB
++ IndexedDB
++ HHVM
++ Hack
++ Capistrano
++ Finance and Accounting: Braintree Payments, FundersClub, Payoneer, PayPal
++ HR: Cloudpeeps, Culture Amp, HackerRank, Piazza
++ Analytics: Apache Hadoop, Concurrent, Droplr, Heap, Google Analytics
++ Product and Design: Asana, Freedcamp, Google Fonts, Invision
 ## <p align="center">I work on open source technology projects at</p>
 
 <table align="center">
